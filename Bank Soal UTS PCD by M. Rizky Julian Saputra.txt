@@ -1,0 +1,113 @@
+﻿Nama : M. Rizky Julian Saputra 
+NPM : 011190047
+
+Soal Pilihan Ganda (single choice)
+
+
+
+1. Ada 2 tipe gradiasi warna yaitu ...
+A. Angular dan Linear
+B. Linear dan Radial
+C. Reflected dan Angular
+D. Radial dan Angular
+E. Linear Reflected
+
+Jawaban : B
+
+2.  Dibawah ini efek yang dapat dilakukan di Adobe Ilustrator adalah…
+A. Transparency
+B. Opacity Mask
+C. Radial Gradient
+D. Drop Shadow
+E. Semua Benar
+Jawaban : E
+
+3. Efek bayangan yang timbul pada suatu objek vektor maupun bitmap pada Adobe Illustrator disebut ...
+A. Tranparency
+B. Drop Shadow
+C. Radial Gradient
+D. Opacity Mask
+E. Transform
+Jawaban : B
+
+4. Jika pada Opacity dibuat 100% pada efek Transparency maka akan terjadi  ...
+A. Objek menjadi transparan
+B. Objek mejadi terlihat jelas
+C. Objek menjadi blur
+D. Objek menjadi vektor
+E. Objek menjadi bitmap
+Jawaban : B
+
+5. Jika kita menurunkan nilai Opacity pada efek Transparency maka akan terjadi...
+A. Objek menjadi transparan
+B. Objek menjadi terlihat jelas
+C. Objek menjadi blur
+D. Objek menjadi vektor
+E. Objek menjadi bitmap
+
+Jawaban : B
+
+Soal Pilihan Ganda (playboy/selingkuh/istri 4/multiple choice)
+
+6. Apa saja contoh citra
+a. citra foto
+b. foto ultraviolet
+c. kamera
+d. video
+e. lukisan
+Jawaban : (a,b)
+
+7. Dalam efek blur dibagi menjadi 3 tipe yaitu  ...
+a. Gaussian Blur
+b. Radianl Blur
+c. Smart Blur
+d. Linear Blur
+e. Gaussian Blur
+
+Jawaban : (a,b,c)
+
+8. Ada 2 tipe gradiasi warna,kecuali
+a. linear
+b. radial
+c. angular
+d. reflected
+e. blur
+
+Jawaban : (a,b,)
+
+9. Tool dalam Pathfinder dibagi dalam dua kelompok yaitu ...
+A. Navigator
+B. Layer
+C. Basic Modes
+D. Shapes Modes
+E. Pathfinder
+Jawaban : (,d,e)
+
+10. Tool dalam Pathfinder dibagi dalam dua kelompok kecuali ...
+a. navigator
+b. layer
+c. basic modes
+d. shapes mode
+e. patfinder
+Jawaban : (a,b,c)
+
+
+
+
+11. Soal :
+Image Analysis Adalah core point dalam membuat konsep desain, yang nantinya akan menentukan dan mempengaruhi desain secara keseluruhan. Image analysis bisa didapatkan dari market research atau pure berdasarkan inspirasi designer yang bersangkutan. 
+Jawaban :Benar
+
+12. Image Analysis Skin Detection Merupakan salah satu proses segmentasi yang memisahkan region objek dalam citra berdasarkan pada perbedaan warna.
+Jawaban :Benar
+
+13. Image Analysis Image Matching Merupakan salah satu bagian dari pengolahan citra yang dilakukan untuk mencari citra lain yang sejenis atau memiliki kemiripan.
+Jawaban :Benar
+
+14. Definisi  Histogram Citra adalah grafik yang menggambarkan penyebaran nilai-nilai intensitas pixel dari suatu citra atau bagian tertentu di dalam citra. Secara matematis histogram citra dihitung dengan rumus : dimana : ni = jumlah pixel yang memiliki derajat keabuan I n= jumlah seluruh pixel di dalam citra. Misalkan citra digital memiliki L derajat keabuan, yaitu dari 0 sampai L-1.
+Jawaban :Benar
+
+15. Point Processing untuk Melakukan operasi terhadap masing-masing piksel.
+Jawaban :Benar
+
+
